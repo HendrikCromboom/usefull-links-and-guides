@@ -15,6 +15,13 @@ By Hendrik Cromboom
 
 ---
 
+### Games/Challenges
+
+* [Code Wars](http://codewars.com)
+* [CodinGame](https://www.codingame.com/start)
+
+---
+
 ### Links
 
 * [NPM JS Libraries](https://www.npmjs.com/)
